@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kingmike72
+- 👀 I’m interested in game design 
+- 🌱 I’m currently learning javascript
